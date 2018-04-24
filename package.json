@@ -1,0 +1,28 @@
+{
+  "name": "advantageonlineshopping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SRF_SeleniumAdvantageonlineshopping.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "experience.center.mocha.reporter": "1.0.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yossi-neeman/advantageonlineshopping.git"
+  },
+  "keywords": [
+    "selenium",
+    "mocha",
+    "srf",
+    "advantageonlineshopping"
+  ],
+  "author": "yossi.neeman@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yossi-neeman/advantageonlineshopping/issues"
+  },
+  "homepage": "https://github.com/yossi-neeman/advantageonlineshopping#readme"
+}
